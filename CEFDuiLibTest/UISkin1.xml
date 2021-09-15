@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<Window size="800,600">
+    <VerticalLayout name="VerticalLayoutUI1" width="802" height="599" bkcolor="#FFA0A0A4">
+        <HorizontalLayout name="HorizontalLayoutUI1" height="30">
+            <HorizontalLayout name="HorizontalLayoutUI2" width="700" height="30">
+                <Control name="ControlUI1" float="true" pos="0,1,0,0" width="55" height="29" bkimage="icon.png" />
+                <Text name="TextUI1" text="简易基于cef和duilib库多页签浏览器" float="true" pos="71,2,0,0" width="531" height="31" textpadding="2,2,2,0" textcolor="#00FF0000" disabledtextcolor="#FFA7A6AA" align="wrap" />
+            </HorizontalLayout>
+            <HorizontalLayout name="HorizontalLayoutUI3" width="100">
+                <Button name="minbtn" maxheight="17" maxwidth="26" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="file=&apos;sys_dlg_min.png&apos; source=&apos;52,0,78,17&apos;" hotimage="file=&apos;sys_dlg_min.png&apos; source=&apos;26,0,52,17&apos;" pushedimage="file=&apos;sys_dlg_min.png&apos; source=&apos;0,0,26,17&apos;" />
+                <Button name="maxbtn" maxheight="17" maxwidth="26" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="file=&apos;sys_dlg_max.png&apos; source=&apos;52,0,78,17&apos;" hotimage="file=&apos;sys_dlg_max.png&apos; source=&apos;26,0,52,18&apos;" pushedimage="file=&apos;sys_dlg_max.png&apos; source=&apos;0,0,26,17&apos;" />
+                <Button name="restorebtn" visible="false" maxheight="17" maxwidth="26" align="center" normalimage="file=&apos;sys_dlg_restore.png&apos; source=&apos;52,0,78,17&apos;" hotimage="file=&apos;sys_dlg_restore.png&apos; source=&apos;26,0,52,17&apos;" pushedimage="file=&apos;sys_dlg_restore.png&apos; source=&apos;0,0,26,17&apos;" />
+                <Button name="closebtn" maxheight="17" maxwidth="45" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="file=&apos;sys_dlg_close.png&apos; source=&apos;90,0,135,17&apos;" hotimage="file=&apos;sys_dlg_close.png&apos; source=&apos;45,0,90,17&apos;" pushedimage="file=&apos;sys_dlg_close.png&apos; source=&apos;0,0,45,17&apos;" />
+            </HorizontalLayout>
+        </HorizontalLayout>
+        <HorizontalLayout name="HorizontalLayoutUI4" height="30">
+            <HorizontalLayout name="HorizontalLayoutUI5" padding="0,8,0,0">
+                <Text name="TextUI1" text="网址:" padding="10,5,0,0" maxwidth="40" textpadding="2,0,2,0" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="wrap" />
+                <Edit name="url" padding="5,0,0,0" bkimage="searchbknormal.png" bkcolor="#FFFFFFFF" maxheight="22" textpadding="4,3,4,3" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+                <Button name="Nav" text="导航" padding="20,0,0,0" bkimage="button_n.png" maxheight="22" maxwidth="50" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" />
+            </HorizontalLayout>
+        </HorizontalLayout>
+        <Label name="LabelUI1" float="true" pos="2,567,0,0" width="796" height="32" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" />
+        <HorizontalLayout name="HorizontalLayoutUI1" height="22">
+            <Option name="IE_1" text="http://www.winradar.com/?f=duidemo" width="100" height="22" disabledtextcolor="#FFA7A6AA" align="center" normalimage="tabbar_normal.png" hotimage="tabbar_hover.png" pushedimage="tabbar_pushed.png" group="demo_list_header" selected="true" selectedimage="tabbar_pushed.png" />
+            <Option name="Add" text=" + " width="30" height="22" textcolor="#FF000000" disabledtextcolor="#FFA7A6AA" align="center" normalimage="tabbar_normal1.png" hotimage="tabbar_hover1.png" pushedimage="tabbar_pushed1.png" group="demo_list_header" selectedimage="tabbar_pushed1.png" />
+        </HorizontalLayout>
+        <TabLayout name="switch" width="797" height="481">
+            <HorizontalLayout name="horBrwser" width="797" height="476">
+                <ActiveX name="ActiveXUI1" width="796" height="475" />
+            </HorizontalLayout>
+        </TabLayout>
+    </VerticalLayout>
+</Window>

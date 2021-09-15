@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Window size="400,300" caption="0,0,0,32" layered="true">
+	<VerticalLayout bkcolor="#FFFFFF00">
+		<HorizontalLayout height="32" >
+			<Control />
+			<Button name="btn_close" width="32" height="32" text="X" />
+		</HorizontalLayout>
+	
+	</VerticalLayout>
+</Window>

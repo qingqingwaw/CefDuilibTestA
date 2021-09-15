@@ -1,0 +1,160 @@
+﻿  UIActiveX.cpp
+  UIAnimation.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIAnimation.cpp(68,55): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIAnimation.cpp(163,51): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  UIButton.cpp
+  UIColorPalette.cpp
+  UICombo.cpp
+  UIComboBox.cpp
+  UIDateTime.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIDateTime.cpp(229,44): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIEdit.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIEdit.cpp(306,44): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIFadeButton.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIFadeButton.cpp(56,28): warning C4244: “参数”: 从“WPARAM”转换到“int”，可能丢失数据
+  UIFlash.cpp
+  UIGifAnim.cpp
+  UIGifAnimEx.cpp
+  UIGroupBox.cpp
+  UIHotKey.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIHotKey.cpp(150,30): warning C4244: “return”: 从“LRESULT”转换到“DWORD”，可能丢失数据
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIHotKey.cpp(272,44): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIIPAddress.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIIPAddress.cpp(237,44): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIIPAddressEx.cpp
+  UILabel.cpp
+  UIList.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(270,44): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(270,44): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(274,46): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(274,46): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(285,44): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(285,44): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(289,46): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(289,46): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(430,45): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(430,45): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(451,39): warning C4312: “类型强制转换”: 从“int”转换到更大的“LPVOID”
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(470,11): warning C4312: “类型强制转换”: 从“int”转换到更大的“LPVOID”
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(474,39): warning C4312: “类型强制转换”: 从“int”转换到更大的“LPVOID”
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(499,58): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(499,58): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(517,57): warning C4312: “类型强制转换”: 从“int”转换到更大的“LPVOID”
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(537,38): warning C4312: “类型强制转换”: 从“int”转换到更大的“LPVOID”
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(545,54): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(545,54): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(568,45): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(568,45): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(570,52): warning C4312: “类型强制转换”: 从“int”转换到更大的“LPVOID”
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(574,50): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(574,50): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(1868,48): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIList.cpp(2463,52): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIListEx.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIListEx.cpp(137,82): warning C4244: “参数”: 从“LPARAM”转换到“BOOL”，可能丢失数据
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIListEx.cpp(171,26): warning C4244: “=”: 从“WPARAM”转换到“int”，可能丢失数据
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIListEx.cpp(172,26): warning C4244: “=”: 从“LPARAM”转换到“int”，可能丢失数据
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIListEx.cpp(745,48): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIListEx.cpp(1137,52): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIMenu.cpp
+  正在生成代码...
+  正在编译...
+  UIOption.cpp
+  UIProgress.cpp
+  UIRichEdit.cpp
+  UIRing.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIRing.cpp(54,74): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIRing.cpp(54,51): warning C4244: “参数”: 从“LONG”转换到“Gdiplus::REAL”，可能丢失数据
+  UIRollText.cpp
+  UIScrollBar.cpp
+  UISlider.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UISlider.cpp(131,42): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UISlider.cpp(136,42): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UISlider.cpp(196,44): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UISlider.cpp(201,44): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UISlider.cpp(226,48): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIText.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIText.cpp(54,52): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Control\UIText.cpp(129,44): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  UITreeView.cpp
+  UIWebBrowser.cpp
+  ControlFactory.cpp
+  UIBase.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIBase.cpp(298,23): warning C4244: “=”: 从“WPARAM”转换到“UINT”，可能丢失数据
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIBase.cpp(310,55): warning C4244: “参数”: 从“WPARAM”转换到“int”，可能丢失数据
+  UIContainer.cpp
+  UIControl.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIControl.cpp(818,48): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UIDlgBuilder.cpp
+  UIManager.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIManager.cpp(1234,43): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIManager.cpp(1234,52): warning C4838: 从“DWORD”转换到“LONG”需要收缩转换
+  UIMarkup.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIMarkup.cpp(167,51): warning C4244: “=”: 从“__int64”转换到“ULONG”，可能丢失数据
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIMarkup.cpp(172,54): warning C4244: “=”: 从“__int64”转换到“ULONG”，可能丢失数据
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIMarkup.cpp(254,30): warning C5033: “register”不再为受支持的存储类
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIMarkup.cpp(460,20): warning C4244: “初始化”: 从“__int64”转换到“ULONG”，可能丢失数据
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIMarkup.cpp(461,32): warning C4244: “=”: 从“__int64”转换到“ULONG”，可能丢失数据
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIMarkup.cpp(477,35): warning C4244: “=”: 从“__int64”转换到“ULONG”，可能丢失数据
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIMarkup.cpp(485,37): warning C4244: “=”: 从“__int64”转换到“ULONG”，可能丢失数据
+  UIRender.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(1776,116): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(1776,116): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(1826,120): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(1826,120): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(1860,61): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(1871,42): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(1871,42): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(1889,42): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(1889,42): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(1899,61): warning C4312: “类型强制转换”: 从“DWORD”转换到更大的“LPVOID”
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(1950,38): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(1950,38): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(1980,46): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(1980,46): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(2081,66): warning C4312: “类型强制转换”: 从“int”转换到更大的“LPVOID”
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(2113,42): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(2113,42): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(2151,117): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(2151,117): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(2159,30): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(2159,30): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(2179,117): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(2179,117): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(2199,34): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(2199,34): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(2338,113): warning C4311: “类型强制转换”: 从“LPVOID”到“int”的指针截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(2338,113): warning C4302: “类型强制转换”: 从“LPVOID”到“int”截断
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Core\UIRender.cpp(2483,70): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  UIResourceManager.cpp
+  UIAnimationTabLayout.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Layout\UIAnimationTabLayout.cpp(85,28): warning C4244: “参数”: 从“WPARAM”转换到“int”，可能丢失数据
+  正在生成代码...
+  正在编译...
+  UIChildLayout.cpp
+  UIHorizontalLayout.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Layout\UIHorizontalLayout.cpp(308,52): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  UITabLayout.cpp
+  UITileLayout.cpp
+  UIVerticalLayout.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Layout\UIVerticalLayout.cpp(309,52): warning C4302: “类型强制转换”: 从“LPWSTR”到“WORD”截断
+  StdAfx.cpp
+  UILib.cpp
+  DPI.cpp
+  DragDropImpl.cpp
+  TrayIcon.cpp
+  UIDelegate.cpp
+  UIShadow.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Utils\UIShadow.cpp(79,23): warning C4244: “初始化”: 从“LONG_PTR”转换到“LONG”，可能丢失数据
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Utils\UIShadow.cpp(592,31): warning C4244: “初始化”: 从“LONG_PTR”转换到“LONG”，可能丢失数据
+  unzip.cpp
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Utils\unzip.cpp(1661,12): warning C5033: “register”不再为受支持的存储类
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Utils\unzip.cpp(1662,12): warning C5033: “register”不再为受支持的存储类
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Utils\unzip.cpp(1663,12): warning C5033: “register”不再为受支持的存储类
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Utils\unzip.cpp(1666,12): warning C5033: “register”不再为受支持的存储类
+E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Utils\unzip.cpp(1670,12): warning C5033: “register”不再为受支持的存储类
+  Utils.cpp
+  WinImplBase.cpp
+  正在生成代码...
+    正在创建库 E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Build\Bin\Win64\Debug\duilib.dll.lib 和对象 E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Build\Bin\Win64\Debug\duilib.dll.exp
+  duilib.vcxproj -> E:\GitHub\TIMSDK-5.6.1200\Windows\Demo\Basic\duilib\Build\Bin\Win64\Debug\duilib.dll
